@@ -6,7 +6,7 @@ Full-stack web and mobile developer.
 `JavaScript` `React` `React Native` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git`
 
 ## 🔭 Projects
-- [HalalHustleHub](https://github.com/codewithmDEV/HHH) — hand-tracking project
+- [HalalHustleHub](https://github.com/codewithmDEV/HHH) 
 
 ## 📫 Contact
 - Email: mohammedduale1738@gmail.com
