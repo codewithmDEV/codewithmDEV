@@ -3,7 +3,7 @@
 Full-stack web and mobile developer.
 
 ## 🛠️ Tech Stack
-`JavaScript` `React` `React Native` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git`
+`JavaScript` `React` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git`
 
 ## 🔭 Projects
 - [HalalHustleHub](https://github.com/codewithmDEV/HHH) 
