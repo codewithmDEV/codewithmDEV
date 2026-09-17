@@ -1,9 +1,9 @@
 # Hi, I'm Mohamed 👋
 
-Full-stack web and mobile developer.
+Full-stack Software Engineer.
 
 ## 🛠️ Tech Stack
-`JavaScript` `React` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git`
+`JavaScript` `React` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git` `FastAPI` `TailwindCSS` `vite`
 
 ## 🔭 Projects
 - [HalalHustleHub](https://github.com/codewithmDEV/HHH) 
