@@ -3,7 +3,7 @@
 Full-stack Software Engineer.
 
 ## 🛠️ Tech Stack
-`JavaScript` `React` `HTML/CSS` `Node.js` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `MongoDB` `JWT` `Git` `FastAPI` `TailwindCSS` `vite`
+`JavaScript` `React` `HTML/CSS` `Python` `Flask` `Flask-SQLAlchemy` `SQL` `JWT` `Git` `FastAPI` `TailwindCSS` `vite`
 
 ## 🔭 Projects
 - [HalalHustleHub](https://github.com/codewithmDEV/HHH) 
